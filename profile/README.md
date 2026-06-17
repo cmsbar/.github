@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/cmsbar/.github/main/profile/logo.png" alt="CMSBar" width="88" height="88" />
+
 # CMSBar
 
 ### Your client edits the live site. You get a pull request.
